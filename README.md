@@ -44,6 +44,8 @@ These datasets are merged to form a comprehensive view of songs, artists, and mu
 - Top 5 most popular genres: Dance, Pop, Rap, Hip-Hop, Reggaeton.
 - Dance and Pop songs dominate popularity charts.
 <img width="296" alt="image" src="https://github.com/user-attachments/assets/1b665812-6d13-4474-9ad7-5bbaec23f3a0" />
+
 - Genre-wise average duration vary significantly.
 <img width="284" alt="image" src="https://github.com/user-attachments/assets/fac4edeb-07dc-423c-a070-cee71e1ae393" />
+
 
